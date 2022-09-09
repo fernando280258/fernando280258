@@ -1,5 +1,18 @@
-👋 Hi, I’m Fernando and living in Mexico!
-Proudly gruth in the Bussiness-Basic Programming Language world.
+👋 Hi, I’m Fernando, I'm from Mexico!
+Proudly gruth in the Bussiness-Basic Programming Language world, and willing to learn about:
+- Java
+- Python
+- JavaScript
+- CSS, SCSS
+- HTML
+- Django
+- Web2py
+- Angular
+- React
+- BBx, BBj, PRO5, VPRO5
+- etc, etc, etc
+
+as long as it last.
 
 📫 How to reach me: fernandocabrera06 at gmail.com
 
